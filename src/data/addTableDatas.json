@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Kontrat": "adsvs3e432",
+    "Teklif": 12444,
+    "Data": "Alış"
+  },
+  {
+    "Id": 2,
+    "Kontrat": "2asdfs019",
+    "Teklif": 345444,
+    "Data": "Satış"
+  },
+  {
+    "Id": 3,
+    "Kontrat": "2sdfasf20",
+    "Teklif": 123132,
+    "Data": "Alış"
+  },
+  {
+    "Id": 4,
+    "Kontrat": "20sdfasdf20",
+    "Teklif": 223423,
+    "Data": "Alış"
+  },
+  {
+    "Id": 5,
+    "Kontrat": "20adsfsd18",
+    "Teklif": 8767867,
+    "Data": "Alış"
+  }
+]
